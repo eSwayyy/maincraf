@@ -393,6 +393,7 @@
       "minecraft:witch": "2025-08-14 19:57:27 +0000",
       "minecraft:spider": "2025-08-14 20:39:27 +0000",
       "minecraft:zombie": "2025-08-14 20:01:27 +0000",
+      "minecraft:creeper": "2025-08-14 23:20:21 +0000",
       "minecraft:drowned": "2025-08-14 22:04:46 +0000",
       "minecraft:husk": "2025-08-14 21:08:12 +0000"
     },
@@ -687,7 +688,8 @@
       "cooked_mutton": "2025-08-14 20:24:39 +0000",
       "salmon": "2025-08-14 21:35:02 +0000",
       "cooked_beef": "2025-08-14 20:14:30 +0000",
-      "baked_potato": "2025-08-14 21:43:10 +0000"
+      "baked_potato": "2025-08-14 21:43:10 +0000",
+      "carrot": "2025-08-14 23:27:34 +0000"
     },
     "done": false
   },
@@ -2077,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
@@ -2107,9 +2115,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-14 23:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
     },
     "done": true
   },
@@ -2137,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-14 23:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
@@ -2149,9 +2175,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
     },
     "done": true
   },
@@ -2182,6 +2220,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-14 23:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
     },
     "done": true
   },
@@ -2218,6 +2262,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 22:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-14 23:21:30 +0000"
     },
     "done": true
   },

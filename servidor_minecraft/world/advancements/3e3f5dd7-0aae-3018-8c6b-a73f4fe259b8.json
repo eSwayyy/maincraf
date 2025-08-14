@@ -217,6 +217,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-14 20:09:35 +0000",
+      "minecraft:enderman": "2025-08-14 23:26:59 +0000",
       "minecraft:spider": "2025-08-14 20:01:05 +0000",
       "minecraft:zombie": "2025-08-14 20:00:53 +0000",
       "minecraft:creeper": "2025-08-14 21:31:50 +0000",
@@ -2004,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 23:27:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:52:24 +0000"
@@ -2013,6 +2020,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-14 22:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 23:27:52 +0000"
     },
     "done": true
   },
@@ -2178,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 23:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-14 22:50:31 +0000"
@@ -2220,6 +2239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-14 23:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-08-14 23:12:03 +0000"
@@ -2247,6 +2278,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-14 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-14 23:20:18 +0000"
     },
     "done": true
   },
