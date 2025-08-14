@@ -56,3 +56,18 @@
 [20:39:33] [Server thread/INFO]: Skeeeeewb has made the advancement [Sweet Dreams]
 [20:42:18] [Server thread/INFO]: eSwayy has made the advancement [Sweet Dreams]
 [21:11:14] [Server thread/INFO]: eSwayy has made the advancement [What a Deal!]
+[21:16:11] [Server thread/INFO]: eSwayy has made the advancement [Ice Bucket Challenge]
+[21:17:04] [Server thread/INFO]: eSwayy has made the advancement [Who is Cutting Onions?]
+[21:17:19] [Server thread/INFO]: eSwayy has made the advancement [We Need to Go Deeper]
+[21:17:21] [Server thread/WARN]: Skeeeeewb moved too quickly! 5.425531702825879,1.1767592750642422,8.691495642432528
+[21:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[21:17:44] [Server thread/INFO]: [Not Secure] <eSwayy> 215 1393
+[21:17:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=64, z=1323} jd{x=546, y=62, z=1322}
+[21:17:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=65, z=1323} jd{x=546, y=62, z=1322}
+[21:17:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=64, z=1322} jd{x=546, y=62, z=1322}
+[21:17:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=64, z=1322} jd{x=546, y=62, z=1322}
+[21:21:38] [Server thread/INFO]: [Not Secure] <eSwayy> 273 1121
+[21:22:40] [Server thread/INFO]: Villager cmk['Villager'/21902, l='ServerLevel[world]', x=585.76, y=58.00, z=1282.92] died, message: 'Villager was slain by Husk'
+[21:23:01] [Server thread/INFO]: Villager cmk['Villager'/22223, l='ServerLevel[world]', x=586.78, y=58.75, z=1282.49] died, message: 'Villager was slain by Husk'
+[21:23:18] [Server thread/INFO]: Villager cmk['Farmer'/22279, l='ServerLevel[world]', x=589.42, y=58.00, z=1290.37] died, message: 'Farmer was slain by Husk'
+[21:25:10] [Server thread/INFO]: [Not Secure] <Skeeeeewb> 591 1286

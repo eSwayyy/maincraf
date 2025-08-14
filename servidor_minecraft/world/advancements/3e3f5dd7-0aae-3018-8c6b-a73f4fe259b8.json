@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-14 21:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-14 20:06:37 +0000"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 21:15:45 +0000"
     },
     "done": true
   },
@@ -1165,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-14 21:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-14 20:21:31 +0000"
@@ -1218,7 +1236,8 @@
       "bread": "2025-08-14 20:04:33 +0000",
       "rotten_flesh": "2025-08-14 20:05:08 +0000",
       "glow_berries": "2025-08-14 20:53:59 +0000",
-      "cooked_beef": "2025-08-14 20:23:43 +0000"
+      "cooked_beef": "2025-08-14 20:23:43 +0000",
+      "carrot": "2025-08-14 21:22:48 +0000"
     },
     "done": false
   },
@@ -1267,6 +1286,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-14 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-14 21:26:26 +0000"
     },
     "done": true
   },
@@ -1495,6 +1520,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-14 20:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-14 21:15:45 +0000"
     },
     "done": true
   },
