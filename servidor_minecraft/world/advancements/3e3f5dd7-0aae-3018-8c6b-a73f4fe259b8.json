@@ -217,10 +217,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-14 20:09:35 +0000",
+      "minecraft:zoglin": "2025-08-14 23:43:42 +0000",
       "minecraft:enderman": "2025-08-14 23:26:59 +0000",
       "minecraft:spider": "2025-08-14 20:01:05 +0000",
       "minecraft:zombie": "2025-08-14 20:00:53 +0000",
       "minecraft:creeper": "2025-08-14 21:31:50 +0000",
+      "minecraft:drowned": "2025-08-14 23:39:37 +0000",
       "minecraft:husk": "2025-08-14 21:07:50 +0000"
     },
     "done": false
@@ -2047,9 +2049,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-14 23:42:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-08-14 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-14 23:42:52 +0000"
     },
     "done": true
   },
@@ -2086,6 +2100,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-14 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-14 23:42:52 +0000"
     },
     "done": true
   },
@@ -2221,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-14 23:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-14 22:52:24 +0000"
@@ -2266,6 +2292,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-14 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-14 23:46:49 +0000"
     },
     "done": true
   },
