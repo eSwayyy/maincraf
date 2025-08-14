@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-14 20:20:52 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-14 20:14:11 +0000"
@@ -272,6 +284,18 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-14 20:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
     },
     "done": true
   },
@@ -353,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-14 22:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 20:05:34 +0000"
@@ -416,6 +446,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-14 21:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 21:51:24 +0000"
     },
     "done": true
   },
@@ -500,6 +536,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-14 20:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
     },
     "done": true
   },
@@ -623,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-14 20:05:46 +0000"
@@ -659,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-14 22:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-14 20:04:03 +0000"
@@ -689,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-14 20:43:51 +0000"
@@ -707,9 +767,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-14 21:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-14 20:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
     },
     "done": true
   },
@@ -752,6 +830,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 22:04:19 +0000"
     },
     "done": true
   },
@@ -875,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-14 20:21:31 +0000"
@@ -922,6 +1012,7 @@
       "minecraft:skeleton": "2025-08-14 20:09:35 +0000",
       "minecraft:spider": "2025-08-14 20:01:05 +0000",
       "minecraft:zombie": "2025-08-14 20:00:53 +0000",
+      "minecraft:creeper": "2025-08-14 21:31:50 +0000",
       "minecraft:husk": "2025-08-14 21:07:50 +0000"
     },
     "done": false
@@ -941,6 +1032,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-14 20:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
     },
     "done": true
   },
@@ -983,6 +1080,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-14 20:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 21:37:48 +0000"
     },
     "done": true
   },
@@ -1105,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-14 20:00:13 +0000"
@@ -1132,6 +1241,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-08-14 20:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
     },
     "done": true
   },
@@ -1253,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-08-14 20:31:45 +0000"
@@ -1307,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-14 21:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 20:05:34 +0000"
@@ -1322,6 +1449,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-14 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
     },
     "done": true
   },
@@ -1463,15 +1596,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-14 21:37:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-14 20:00:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 22:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-08-14 19:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 21:39:02 +0000"
     },
     "done": true
   },
