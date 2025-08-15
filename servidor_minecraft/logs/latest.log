@@ -63,3 +63,7 @@
 [01:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
 [01:35:58] [Server thread/INFO]: [Not Secure] <eSwayy> 62 240
 [01:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[01:52:26] [Server thread/INFO]: Skeeeeewb was shot by eSwayy
+[01:53:14] [Server thread/INFO]: Skeeeeewb has made the advancement [A Seedy Place]
+[01:58:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
+[01:59:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}

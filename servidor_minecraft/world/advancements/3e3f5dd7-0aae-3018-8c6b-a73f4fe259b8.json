@@ -10,6 +10,7 @@
       "minecraft:badlands": "2025-08-14 20:48:09 +0000",
       "minecraft:beach": "2025-08-14 20:31:03 +0000",
       "minecraft:forest": "2025-08-14 20:32:44 +0000",
+      "minecraft:mangrove_swamp": "2025-08-15 01:48:08 +0000",
       "minecraft:sparse_jungle": "2025-08-14 20:32:03 +0000",
       "minecraft:river": "2025-08-14 20:06:13 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 20:31:03 +0000",
@@ -2087,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-15 01:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:52:24 +0000"
@@ -2201,6 +2208,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-14 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-15 01:53:21 +0000"
     },
     "done": true
   },
@@ -2390,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-15 01:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-08-15 00:59:44 +0000"
@@ -2462,6 +2481,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-15 01:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
@@ -2489,6 +2514,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-14 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-15 01:53:18 +0000"
     },
     "done": true
   },
@@ -2567,6 +2598,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-14 23:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-15 01:53:21 +0000"
     },
     "done": true
   },
