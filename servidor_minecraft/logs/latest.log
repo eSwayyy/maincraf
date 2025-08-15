@@ -33,3 +33,12 @@
 [15:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=588, y=58, z=1285} jd{x=594, y=58, z=1284}
 [15:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=65, z=1291} jd{x=550, y=65, z=1293}
 [15:29:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=546, y=65, z=1291} jd{x=593, y=58, z=1284}
+[15:33:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=593, y=58, z=1284} jd{x=592, y=58, z=1284}
+[15:34:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=590, y=58, z=1285} jd{x=591, y=58, z=1284}
+[15:34:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=590, y=58, z=1285} jd{x=593, y=58, z=1282}
+[15:36:00] [Server thread/INFO]: Villager cmk['Villager'/20420, l='ServerLevel[world]', x=594.30, y=58.00, z=1282.53] died, message: 'Villager was slain by eSwayy'
+[15:40:38] [Server thread/INFO]: eSwayy lost connection: Timed out
+[15:40:38] [Server thread/INFO]: eSwayy left the game
+[15:40:38] [Server thread/WARN]: handleDisconnection() called twice
+[15:40:47] [Server thread/INFO]: eSwayy[/100.98.124.46:65345] logged in with entity id 28913 at (593.1268013575516, 58.0, 1282.4274215753915)
+[15:40:47] [Server thread/INFO]: eSwayy joined the game
