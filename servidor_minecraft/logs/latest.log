@@ -20,3 +20,4 @@
 [13:40:31] [Server thread/INFO]: Done (4.902s)! For help, type "help"
 [13:43:14] [Server thread/INFO]: eSwayy[/100.98.124.46:52549] logged in with entity id 24 at (581.4777611406474, 64.0, 1284.9213896559238)
 [13:43:14] [Server thread/INFO]: eSwayy joined the game
+[13:58:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=545, y=66, z=1292} jd{x=551, y=65, z=1288}
