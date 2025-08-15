@@ -42,3 +42,5 @@
 [15:40:38] [Server thread/WARN]: handleDisconnection() called twice
 [15:40:47] [Server thread/INFO]: eSwayy[/100.98.124.46:65345] logged in with entity id 28913 at (593.1268013575516, 58.0, 1282.4274215753915)
 [15:40:47] [Server thread/INFO]: eSwayy joined the game
+[15:46:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=62, z=1301} jd{x=591, y=58, z=1287}
+[15:47:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=560, y=62, z=1301} jd{x=584, y=59, z=1286}
