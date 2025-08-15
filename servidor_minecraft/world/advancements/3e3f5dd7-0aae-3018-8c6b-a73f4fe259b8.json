@@ -228,6 +228,7 @@
       "minecraft:zombified_piglin": "2025-08-15 01:30:04 +0000",
       "minecraft:husk": "2025-08-14 21:07:50 +0000",
       "minecraft:hoglin": "2025-08-15 00:46:34 +0000",
+      "minecraft:shulker": "2025-08-15 02:45:24 +0000",
       "minecraft:piglin": "2025-08-15 01:01:26 +0000",
       "minecraft:enderman": "2025-08-14 23:26:59 +0000",
       "minecraft:magma_cube": "2025-08-15 01:22:36 +0000",
@@ -433,6 +434,7 @@
       "rotten_flesh": "2025-08-14 20:05:08 +0000",
       "glow_berries": "2025-08-14 20:53:59 +0000",
       "cooked_beef": "2025-08-14 20:23:43 +0000",
+      "chorus_fruit": "2025-08-15 02:39:09 +0000",
       "golden_carrot": "2025-08-15 02:23:38 +0000",
       "carrot": "2025-08-14 21:22:48 +0000"
     },
@@ -2022,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-08-15 02:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
@@ -2121,6 +2129,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-08-15 01:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
     },
     "done": true
   },
@@ -2325,6 +2339,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-08-15 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-15 02:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-15 00:49:01 +0000"
@@ -2409,15 +2435,33 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-15 02:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-14 22:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
     },
     "done": true
   },
@@ -2619,6 +2663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-14 23:53:06 +0000"
@@ -2751,6 +2801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-15 02:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-08-15 01:11:26 +0000"
@@ -2805,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-08-15 02:15:57 +0000"
@@ -2832,6 +2894,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:46:44 +0000"
     },
     "done": true
   },
