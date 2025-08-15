@@ -223,6 +223,7 @@
       "minecraft:zoglin": "2025-08-14 23:43:42 +0000",
       "minecraft:enderman": "2025-08-14 23:26:59 +0000",
       "minecraft:spider": "2025-08-14 20:01:05 +0000",
+      "minecraft:piglin_brute": "2025-08-15 01:08:55 +0000",
       "minecraft:zombie": "2025-08-14 20:00:53 +0000",
       "minecraft:creeper": "2025-08-14 21:31:50 +0000",
       "minecraft:drowned": "2025-08-14 23:39:37 +0000",
@@ -2011,6 +2012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-15 01:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-08-14 22:50:31 +0000"
@@ -2355,6 +2362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-15 01:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-14 23:12:03 +0000"
@@ -2592,6 +2605,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-14 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-15 01:11:26 +0000"
     },
     "done": true
   },
