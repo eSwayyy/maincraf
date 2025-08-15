@@ -14,13 +14,15 @@
       "minecraft:sparse_jungle": "2025-08-14 20:32:03 +0000",
       "minecraft:river": "2025-08-14 20:06:13 +0000",
       "minecraft:lukewarm_ocean": "2025-08-14 20:31:03 +0000",
+      "minecraft:stony_shore": "2025-08-15 02:06:42 +0000",
       "minecraft:lush_caves": "2025-08-14 23:52:42 +0000",
       "minecraft:desert": "2025-08-14 20:56:01 +0000",
       "minecraft:jungle": "2025-08-14 20:31:16 +0000",
       "minecraft:savanna": "2025-08-14 19:59:11 +0000",
       "minecraft:wooded_badlands": "2025-08-14 20:49:41 +0000",
       "minecraft:bamboo_jungle": "2025-08-14 20:31:42 +0000",
-      "minecraft:plains": "2025-08-14 19:58:25 +0000"
+      "minecraft:plains": "2025-08-14 19:58:25 +0000",
+      "minecraft:warm_ocean": "2025-08-15 02:03:01 +0000"
     },
     "done": false
   },
@@ -2076,6 +2078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-08-15 02:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-14 22:40:29 +0000"
@@ -2226,6 +2234,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-15 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-15 02:05:19 +0000"
     },
     "done": true
   },
@@ -2550,6 +2564,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-15 00:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-15 02:05:19 +0000"
     },
     "done": true
   },
