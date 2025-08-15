@@ -92,3 +92,10 @@
 [02:43:36] [Server thread/INFO]: Skeeeeewb has reached the goal [Sky's the Limit]
 [02:44:06] [Server thread/INFO]: eSwayy has reached the goal [Sky's the Limit]
 [02:44:40] [Server thread/INFO]: [Not Secure] <eSwayy> 2339 81
+[03:01:26] [Server thread/INFO]: Skeeeeewb has reached the goal [The Next Generation]
+[03:05:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=575, y=77, z=1264} jd{x=574, y=76, z=1263}
+[03:05:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=574, y=76, z=1264} jd{x=575, y=75, z=1264}
+[03:08:45] [Server thread/INFO]: eSwayy lost connection: Disconnected
+[03:08:45] [Server thread/INFO]: eSwayy left the game
+[03:08:48] [Server thread/INFO]: Skeeeeewb lost connection: Disconnected
+[03:08:48] [Server thread/INFO]: Skeeeeewb left the game
