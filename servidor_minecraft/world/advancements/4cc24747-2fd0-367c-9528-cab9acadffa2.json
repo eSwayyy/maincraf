@@ -394,10 +394,12 @@
       "minecraft:pillager": "2025-08-14 20:24:14 +0000",
       "minecraft:blaze": "2025-08-15 00:46:53 +0000",
       "minecraft:skeleton": "2025-08-14 20:00:56 +0000",
+      "minecraft:phantom": "2025-08-15 02:29:42 +0000",
       "minecraft:zombified_piglin": "2025-08-15 01:29:48 +0000",
       "minecraft:witch": "2025-08-14 19:57:27 +0000",
       "minecraft:husk": "2025-08-14 21:08:12 +0000",
       "minecraft:ghast": "2025-08-15 01:44:54 +0000",
+      "minecraft:ender_dragon": "2025-08-15 02:28:13 +0000",
       "minecraft:piglin": "2025-08-15 01:01:14 +0000",
       "minecraft:enderman": "2025-08-14 20:23:26 +0000",
       "minecraft:silverfish": "2025-08-15 02:14:52 +0000",
@@ -2068,6 +2070,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 22:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-15 02:28:13 +0000"
     },
     "done": true
   },
