@@ -217,6 +217,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-15 00:48:44 +0000",
       "minecraft:skeleton": "2025-08-14 20:09:35 +0000",
       "minecraft:zoglin": "2025-08-14 23:43:42 +0000",
       "minecraft:enderman": "2025-08-14 23:26:59 +0000",
@@ -2084,7 +2085,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-14 23:42:53 +0000",
-      "minecraft:nether_wastes": "2025-08-15 00:47:19 +0000"
+      "minecraft:nether_wastes": "2025-08-15 00:47:19 +0000",
+      "minecraft:warped_forest": "2025-08-15 00:51:18 +0000"
     },
     "done": false
   },
@@ -2208,6 +2210,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-15 00:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-14 22:49:57 +0000"
@@ -2316,6 +2324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-15 00:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-14 22:40:29 +0000"
@@ -2343,6 +2357,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-14 23:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-15 00:55:02 +0000"
     },
     "done": true
   },
@@ -2391,6 +2411,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-15 00:55:02 +0000"
     },
     "done": true
   },
@@ -2475,6 +2501,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-14 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-15 00:49:01 +0000"
     },
     "done": true
   },
