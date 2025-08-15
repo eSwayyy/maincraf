@@ -224,7 +224,8 @@
       "minecraft:zombie": "2025-08-14 20:00:53 +0000",
       "minecraft:creeper": "2025-08-14 21:31:50 +0000",
       "minecraft:drowned": "2025-08-14 23:39:37 +0000",
-      "minecraft:husk": "2025-08-14 21:07:50 +0000"
+      "minecraft:husk": "2025-08-14 21:07:50 +0000",
+      "minecraft:hoglin": "2025-08-15 00:46:34 +0000"
     },
     "done": false
   },
@@ -2082,7 +2083,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-14 23:42:53 +0000"
+      "minecraft:crimson_forest": "2025-08-14 23:42:53 +0000",
+      "minecraft:nether_wastes": "2025-08-15 00:47:19 +0000"
     },
     "done": false
   },
@@ -2212,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-15 00:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-08-14 23:12:03 +0000"
@@ -2239,6 +2247,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-15 00:39:23 +0000"
     },
     "done": true
   },
@@ -2434,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-15 00:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:52:24 +0000"
@@ -2473,6 +2493,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-14 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-15 00:43:41 +0000"
     },
     "done": true
   },

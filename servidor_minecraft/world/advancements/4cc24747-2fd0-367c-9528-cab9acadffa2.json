@@ -389,6 +389,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-14 20:24:14 +0000",
+      "minecraft:blaze": "2025-08-15 00:46:53 +0000",
       "minecraft:skeleton": "2025-08-14 20:00:56 +0000",
       "minecraft:enderman": "2025-08-14 20:23:26 +0000",
       "minecraft:witch": "2025-08-14 19:57:27 +0000",
@@ -1710,7 +1711,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-14 21:17:21 +0000"
+      "minecraft:crimson_forest": "2025-08-14 21:17:21 +0000",
+      "minecraft:nether_wastes": "2025-08-15 00:47:22 +0000"
     },
     "done": false
   },
@@ -2152,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-15 00:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-14 23:20:15 +0000"
@@ -2233,6 +2241,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-15 00:46:58 +0000"
     },
     "done": true
   },
@@ -2356,6 +2370,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-15 00:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 22:48:34 +0000"
@@ -2377,6 +2397,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-15 00:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-15 00:46:58 +0000"
     },
     "done": true
   },
