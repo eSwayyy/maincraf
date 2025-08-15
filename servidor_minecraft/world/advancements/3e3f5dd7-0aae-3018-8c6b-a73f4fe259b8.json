@@ -427,11 +427,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-15 02:27:31 +0000",
       "bread": "2025-08-14 20:04:33 +0000",
       "golden_apple": "2025-08-15 01:24:33 +0000",
       "rotten_flesh": "2025-08-14 20:05:08 +0000",
       "glow_berries": "2025-08-14 20:53:59 +0000",
       "cooked_beef": "2025-08-14 20:23:43 +0000",
+      "golden_carrot": "2025-08-15 02:23:38 +0000",
       "carrot": "2025-08-14 21:22:48 +0000"
     },
     "done": false
@@ -2002,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-15 02:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-15 00:58:14 +0000"
@@ -2047,6 +2055,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 23:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-15 02:25:43 +0000"
     },
     "done": true
   },
@@ -2332,6 +2346,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-15 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-15 02:25:43 +0000"
     },
     "done": true
   },
