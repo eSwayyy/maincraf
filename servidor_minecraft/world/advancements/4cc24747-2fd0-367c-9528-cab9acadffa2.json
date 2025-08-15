@@ -704,6 +704,7 @@
       "salmon": "2025-08-14 21:35:02 +0000",
       "cooked_beef": "2025-08-14 20:14:30 +0000",
       "baked_potato": "2025-08-14 21:43:10 +0000",
+      "melon_slice": "2025-08-15 02:54:07 +0000",
       "golden_carrot": "2025-08-15 01:26:56 +0000",
       "carrot": "2025-08-14 23:27:34 +0000"
     },
@@ -2164,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-08-15 02:43:12 +0000"
@@ -2428,6 +2435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-15 02:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-15 02:11:49 +0000"
@@ -2518,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-15 00:58:49 +0000"
@@ -2533,6 +2552,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-14 23:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
     },
     "done": true
   },
@@ -2767,6 +2792,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-14 23:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
     },
     "done": true
   },
@@ -3040,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-08-15 00:51:49 +0000"
@@ -3061,6 +3098,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-08-15 01:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-15 02:49:46 +0000"
     },
     "done": true
   },
