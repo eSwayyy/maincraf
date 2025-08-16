@@ -43,3 +43,6 @@
 [00:43:01] [Server thread/INFO]: Villager cmk['Villager'/28554, l='ServerLevel[world]', x=69.13, y=119.00, z=170.50] died, message: 'Villager suffocated in a wall'
 [00:43:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=582, y=71, z=1270} jd{x=68, y=120, z=170}
 [00:44:54] [Server thread/WARN]: eSwayy moved wrongly!
+[00:58:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=61, y=118, z=170} jd{x=550, y=65, z=1295}
+[01:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=584, y=62, z=1288} jd{x=549, y=66, z=1294}
+[01:03:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=584, y=62, z=1288} jd{x=552, y=65, z=1292}
