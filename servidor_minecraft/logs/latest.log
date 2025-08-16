@@ -23,3 +23,6 @@
 [17:46:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=582, y=63, z=1258} jd{x=620, y=53, z=1193}
 [17:46:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=621, y=54, z=1193} jd{x=620, y=56, z=1192}
 [17:50:50] [Server thread/INFO]: Villager cmk['Villager'/55, l='ServerLevel[world]', x=551.70, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
+[17:58:36] [Server thread/INFO]: Villager cmk['Villager'/58, l='ServerLevel[world]', x=551.36, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
+[17:59:09] [Server thread/INFO]: eSwayy was blown up by Creeper
+[18:01:21] [Server thread/INFO]: [Not Secure] <eSwayy> 69 160
