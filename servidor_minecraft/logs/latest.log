@@ -52,3 +52,4 @@
 [01:31:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=69, y=118, z=170} jd{x=69, y=119, z=169}
 [01:34:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=119, z=-4} jd{x=61, y=122, z=-4}
 [01:37:35] [Server thread/INFO]: [Not Secure] <eSwayy> 61 50
+[01:59:57] [Server thread/INFO]: Villager cmk['Villager'/43393, l='ServerLevel[world]', x=551.55, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
