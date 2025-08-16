@@ -50,3 +50,14 @@
 [18:33:57] [Server thread/INFO]: [Not Secure] <Skeeeeewb> wn
 [18:34:03] [Server thread/INFO]: [Not Secure] <Skeeeeewb> te voy a llamar
 [18:34:10] [Server thread/INFO]: [Not Secure] <Skeeeeewb> q paja escribir
+[18:42:44] [Server thread/INFO]: Skeeeeewb lost connection: Disconnected
+[18:42:44] [Server thread/INFO]: Skeeeeewb left the game
+[18:43:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-19, y=84, z=-20} jd{x=-27, y=78, z=-19}
+[18:45:40] [Server thread/INFO]: Skeeeeewb[/100.86.7.73:52499] logged in with entity id 18371 at (585.6313418295452, 58.0, 1284.487500011921)
+[18:45:40] [Server thread/INFO]: Skeeeeewb joined the game
+[18:46:51] [Server thread/INFO]: Villager cmk['Villager'/10908, l='ServerLevel[world]', x=-18.50, y=82.19, z=-18.30] died, message: 'Villager was slain by Zombie'
+[18:47:33] [Server thread/INFO]: Villager cmk['Villager'/18375, l='ServerLevel[world]', x=551.65, y=61.00, z=1290.77] died, message: 'Villager suffocated in a wall'
+[18:51:08] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.2954386787912675
+[18:51:08] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.3920591884950948
+[18:51:08] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.44478975761966133
+[18:51:57] [Server thread/INFO]: Skeeeeewb was slain by Enderman
