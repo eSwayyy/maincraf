@@ -35,3 +35,4 @@
 [23:51:23] [Server thread/INFO]: [Not Secure] <eSwayy> 554 1283
 [23:51:38] [Server thread/INFO]: [Not Secure] <eSwayy> 69 160
 [23:53:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=70, y=121, z=178} jd{x=68, y=119, z=172}
+[23:56:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=70, y=121, z=178} jd{x=61, y=119, z=-25}
