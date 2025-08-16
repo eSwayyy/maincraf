@@ -61,3 +61,6 @@
 [18:51:08] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.3920591884950948
 [18:51:08] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.44478975761966133
 [18:51:57] [Server thread/INFO]: Skeeeeewb was slain by Enderman
+[18:55:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-31, y=75, z=-25} jd{x=-19, y=86, z=-19}
+[18:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
+[18:59:02] [Server thread/INFO]: Villager cmk['Villager'/21973, l='ServerLevel[world]', x=551.54, y=61.00, z=1290.64] died, message: 'Villager suffocated in a wall'
