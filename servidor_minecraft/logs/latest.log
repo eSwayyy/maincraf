@@ -46,3 +46,5 @@
 [00:58:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=61, y=118, z=170} jd{x=550, y=65, z=1295}
 [01:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=584, y=62, z=1288} jd{x=549, y=66, z=1294}
 [01:03:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=584, y=62, z=1288} jd{x=552, y=65, z=1292}
+[01:10:24] [Server thread/WARN]: eSwayy moved wrongly!
+[01:20:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=586, y=64, z=1294} jd{x=61, y=119, z=173}
