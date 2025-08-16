@@ -64,3 +64,11 @@
 [18:55:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-31, y=75, z=-25} jd{x=-19, y=86, z=-19}
 [18:58:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
 [18:59:02] [Server thread/INFO]: Villager cmk['Villager'/21973, l='ServerLevel[world]', x=551.54, y=61.00, z=1290.64] died, message: 'Villager suffocated in a wall'
+[19:04:39] [Server thread/INFO]: Villager cmk['Villager'/21974, l='ServerLevel[world]', x=551.66, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
+[19:12:14] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.3831758238480063
+[19:12:14] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.5537617523309848
+[19:12:14] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.7436849165542156
+[19:12:18] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.3941355587610076
+[19:12:18] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.4724234649510919
+[19:12:18] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.43525291858340154
+[19:12:18] [Server thread/WARN]: Jungle Boat (vehicle of eSwayy) moved wrongly! 0.36250723860742085
