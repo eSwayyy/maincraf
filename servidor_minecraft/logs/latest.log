@@ -22,3 +22,8 @@
 [15:58:53] [Server thread/INFO]: eSwayy[/100.98.124.46:51488] logged in with entity id 2546 at (587.7243210631651, 58.0, 1287.9433715772589)
 [15:58:53] [Server thread/INFO]: eSwayy joined the game
 [16:00:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=579, y=66, z=1295} jd{x=538, y=66, z=1292}
+[16:01:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=539, y=66, z=1292} jd{x=552, y=65, z=1292}
+[16:09:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=583, y=53, z=1312} jd{x=590, y=54, z=1312}
+[16:19:19] [Server thread/INFO]: Villager cmk['Villager'/3075, l='ServerLevel[world]', x=551.55, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
+[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
+[16:27:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}

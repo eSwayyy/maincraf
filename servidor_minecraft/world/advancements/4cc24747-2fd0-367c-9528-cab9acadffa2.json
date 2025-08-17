@@ -706,6 +706,7 @@
       "apple": "2025-08-14 21:29:29 +0000",
       "golden_apple": "2025-08-15 01:24:00 +0000",
       "rotten_flesh": "2025-08-14 20:02:49 +0000",
+      "suspicious_stew": "2025-08-17 16:11:11 +0000",
       "cooked_mutton": "2025-08-14 20:24:39 +0000",
       "salmon": "2025-08-14 21:35:02 +0000",
       "cooked_beef": "2025-08-14 20:14:30 +0000",
@@ -3578,6 +3579,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-17 03:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-17 16:11:11 +0000"
     },
     "done": true
   },
