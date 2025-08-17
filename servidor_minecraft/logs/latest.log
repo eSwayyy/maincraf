@@ -25,3 +25,5 @@
 [03:40:57] [Server thread/INFO]: Villager cmk['Villager'/4732, l='ServerLevel[world]', x=547.30, y=64.00, z=1291.50] died, message: 'Villager was slain by eSwayy'
 [03:48:32] [Server thread/INFO]: Villager cmk['Villager'/4734, l='ServerLevel[world]', x=551.45, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
 [04:02:13] [Server thread/INFO]: Named entity cju['mish'/12903, l='ServerLevel[world]', x=270.50, y=6.25, z=8.51] died: mish was slain by Enderman
+[04:11:28] [Server thread/WARN]: eSwayy moved wrongly!
+[04:15:32] [Server thread/INFO]: Named entity cju['mish'/15884, l='ServerLevel[world]', x=270.50, y=6.25, z=8.51] died: mish was slain by Enderman
