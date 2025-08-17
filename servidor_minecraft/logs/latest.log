@@ -27,3 +27,18 @@
 [16:19:19] [Server thread/INFO]: Villager cmk['Villager'/3075, l='ServerLevel[world]', x=551.55, y=61.00, z=1290.30] died, message: 'Villager suffocated in a wall'
 [16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
 [16:27:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
+[16:38:32] [Server thread/INFO]: [Not Secure] <eSwayy> 365 162
+[16:39:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=119, z=162} jd{x=56, y=119, z=162}
+[16:43:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=94, y=119, z=162} jd{x=365, y=121, z=164}
+[16:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
+[16:54:59] [Server thread/WARN]: eSwayy moved wrongly!
+[16:56:49] [Server thread/WARN]: eSwayy moved wrongly!
+[17:04:06] [Server thread/INFO]: [Not Secure] <eSwayy> sha
+[17:04:10] [Server thread/INFO]: [Not Secure] <eSwayy> mish plop
+[17:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=589, y=56, z=1279}
+[17:04:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=589, y=56, z=1279}
+[17:05:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=590, y=56, z=1278}
+[17:05:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=589, y=56, z=1279}
+[17:05:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=589, y=56, z=1279}
+[17:05:38] [Server thread/WARN]: eSwayy moved wrongly!
+[17:05:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=589, y=56, z=1278} jd{x=589, y=56, z=1279}

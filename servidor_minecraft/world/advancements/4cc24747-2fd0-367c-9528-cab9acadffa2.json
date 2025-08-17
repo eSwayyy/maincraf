@@ -11,6 +11,7 @@
       "minecraft:beach": "2025-08-14 20:31:03 +0000",
       "minecraft:stony_peaks": "2025-08-15 02:09:29 +0000",
       "minecraft:forest": "2025-08-14 20:32:59 +0000",
+      "minecraft:taiga": "2025-08-17 16:43:32 +0000",
       "minecraft:mangrove_swamp": "2025-08-15 01:48:09 +0000",
       "minecraft:sparse_jungle": "2025-08-14 20:32:03 +0000",
       "minecraft:river": "2025-08-14 20:22:51 +0000",
@@ -3582,9 +3583,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-17 16:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-17 16:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-17 16:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 16:54:23 +0000"
     },
     "done": true
   },
