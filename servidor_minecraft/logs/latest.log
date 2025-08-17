@@ -27,3 +27,5 @@
 [04:02:13] [Server thread/INFO]: Named entity cju['mish'/12903, l='ServerLevel[world]', x=270.50, y=6.25, z=8.51] died: mish was slain by Enderman
 [04:11:28] [Server thread/WARN]: eSwayy moved wrongly!
 [04:15:32] [Server thread/INFO]: Named entity cju['mish'/15884, l='ServerLevel[world]', x=270.50, y=6.25, z=8.51] died: mish was slain by Enderman
+[04:56:31] [Server thread/WARN]: eSwayy moved wrongly!
+[04:56:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-30, y=74, z=-27} jd{x=584, y=54, z=1300}
